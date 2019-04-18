@@ -4,6 +4,6 @@ spring:
       max-file-size: 10MB
   datasource:
     username: root
-    password: root
+    password: 852456130
     url: jdbc:mysql://122.152.233.227:3306/short_video?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true&useSSL=false&useUnicode=true
     driver-class-name: com.mysql.cj.jdbc.Driver
